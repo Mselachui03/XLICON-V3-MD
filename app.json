@@ -1,5 +1,5 @@
 {
-  "name": "Xlicon-MD",
+  "name": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
@@ -7,15 +7,15 @@
   "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
   "stack": "container",
   "env": {
-    "SUDO": {
+    "SUDO": {260769355624
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "260769355624"
     },
-    "SUDO_NAME": {
-      "description": "Add Your Name Here",
+    "SUDO_NAME": {𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀
+      "description": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -27,25 +27,25 @@
       "required": true,
       "value": ""
     },
-    "PREFIX": {
+    "PREFIX": {*
       "description": "Set Your Prefix Here",
       "required": true,
       "value": "."
     },
-    "BOT_NAME": {
-      "description": "Set Your Bot Name Here",
+    "BOT_NAME": {𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀
+      "description": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀"
     },
-     "PACK_NAME": {
+     "PACK_NAME": {𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀"
      },
-     "AUTHER_NAME": {
+     "AUTHER_NAME": {𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
@@ -67,9 +67,9 @@
       "required": false,
       "value": "true"
      },
-     "AUTO_BLOCK": {
+     "AUTO_BLOCK": {212
       "description": "Set A Contary Code To Auto banned if u wanna",
-      "required": false,
+      "required": true,
       "value": "212"
      }
     },
